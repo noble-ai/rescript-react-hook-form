@@ -1,0 +1,7 @@
+{
+  "name": "@nobleai/rescript-react-hook-form",
+  "sources": ["src"],
+  "bs-dependencies": [
+    "@rescript/react"
+  ]
+}

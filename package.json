@@ -1,0 +1,40 @@
+{
+  "name": "@nobleai/rescript-react-hook-form",
+  "version": "6.2.0",
+  "description": "Rescript bindings ReactHookForm",
+  "files": [
+    "README.md",
+    "Changes.md",
+    "LICENSE",
+    "bsconfig.json",
+    "src/**/*.res",
+    "src/**/*.resi"
+  ],
+  "scripts": {
+    "build": "rescript build",
+    "start": "rescript build -w",
+    "clean": "rescript clean",
+    "test": "echo 'tests disabled for now'",
+    "pub": "yarn publish --scope nobleai --access public"
+  },
+  "keywords": [
+    "rescript",
+    "react-hook-form"
+  ],
+  "author": "Alex Mouton <alex.mouton@noble.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/noble-ai/rescript-react-hook-form.git"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3"
+  },
+  "devDependencies": {
+    "react-hook-form": "6.2.0",
+    "rescript": "^9.1.4"
+  },
+  "peerDependencies": {
+    "react-hook-form": "6.2.0"
+  }
+}
