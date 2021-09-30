@@ -6,8 +6,8 @@ https://github.com/noble-ai/rescript-react-hook-form
 
 ## Installation
 
-* Add `@nobleai/rescript-cypress` to your project as you like
-* Add `@nobleai/rescript-cypress` to `bs-dev-dependencies`in bsconfig.json
+* Add `@nobleai/rescript-react-hook-form` to your project as you like
+* Add `@nobleai/rescript-react-hook-form` to `bs-dev-dependencies`in bsconfig.json
 * build `-with-deps`
 
 ## Versions
